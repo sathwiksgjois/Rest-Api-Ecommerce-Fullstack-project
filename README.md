@@ -16,7 +16,6 @@ A full stack ecommerce application built using:
 - Product Listing API
 - Cart System
 - Order Placement
-- Admin Panel
 
 ---
 
